@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 código b
+=======
+código a
+>>>>>>> 2c98951235a4cb5d7c25c023e048326e7cbbb8ad
